@@ -25,6 +25,10 @@
         <activity
             android:name=".LoginActivity"
             android:exported="true" />
+        <!-- GroceryActivity - Tela de Gerenciamento de Itens -->
+        <activity
+            android:name=".GroceryActivity"
+            android:exported="true" />
     </application>
 
 </manifest>
