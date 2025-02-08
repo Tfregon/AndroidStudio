@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GroceryManager</string>
+    <!-- Definição das categorias para o Spinner -->
+    <string-array name="grocery_categories">
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Dairy</item>
+        <item>Bakery</item>
+        <item>Beverages</item>
+    </string-array>
 </resources>
